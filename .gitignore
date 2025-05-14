@@ -1,0 +1,11 @@
+# Ignore SolidWorks macro binary file
+*.swp
+
+# Temp or backup files
+*.bak
+*.tmp
+*.log
+~$*
+
+# Optional: Excel macros (ถ้าใช้ร่วม)
+*.xlsm
